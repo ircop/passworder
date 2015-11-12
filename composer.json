@@ -2,7 +2,7 @@
     "name": "ircop/passworder",
     "description": "Human-readable password generator",
     "license": "GPLv2",
-    "type": "library",
+    "type": "",
     "keywords": ["larawel", "password", "password generator"],
     "authors": [
         {
