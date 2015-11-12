@@ -3,7 +3,7 @@
     "description": "Human-readable password generator",
     "license": "GPLv2",
     "type": "",
-    "keywords": ["larawel", "password", "password generator"],
+    "keywords": ["laravel", "password", "password generator"],
     "authors": [
         {
             "name": "wingman",
