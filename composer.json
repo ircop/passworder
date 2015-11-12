@@ -2,6 +2,8 @@
     "name": "ircop/passworder",
     "description": "Human-readable password generator",
     "license": "GPLv2",
+    "type": "library",
+    "keywords": ["larawel", "password", "password generator"],
     "authors": [
         {
             "name": "wingman",
@@ -9,5 +11,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ircop\\Passworder\\": "src/"
+        }
+    }
 }
