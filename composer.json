@@ -1,0 +1,13 @@
+{
+    "name": "ircop/passworder",
+    "description": "Human-readable password generator",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "wingman",
+            "email": "wingman@ip-home.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
