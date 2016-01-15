@@ -33,7 +33,13 @@ In the `config/app.php`. add to the `aliases` array:
 'Passworder' => Ircop\Passworder\Facade\Passworder::class,
 ```
 
+### 4: Publishing config:
 
+Run in the console:
+```
+./artisan vendor:publish --provider="Ircop\Passworder\PassworderServiceProvider"
+```
+Config will be moved to /config/passworder.php
 
 
 
