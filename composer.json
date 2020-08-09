@@ -1,13 +1,17 @@
 {
-    "name": "ircop/passworder",
-    "description": "Human-readable password generator",
+    "name": "ivnalk/passworder",
+    "description": "Human-readable password generator for Laravel 7+",
     "license": "GPLv2",
-    "type": "",
-    "keywords": ["laravel", "password", "password generator"],
+    "type": "library",
+    "keywords": ["laravel", "password", "password generator", "human readable password generator"],
     "authors": [
         {
             "name": "wingman",
             "email": "wingman@ip-home.net"
+        },
+        {
+            "name": "Ivan Abascal",
+            "email": "ivan@alk.mx"
         }
     ],
     "minimum-stability": "dev",
